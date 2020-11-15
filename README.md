@@ -33,6 +33,6 @@ print{a}                //12を出力
 
 # その他
 
-* 作成者：dangomushi
+* 作成者：dangomushi（pythonmaster1027）
 * 所属：ただの中学生ですよ、、、、、
 
